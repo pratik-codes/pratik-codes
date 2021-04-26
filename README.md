@@ -1,6 +1,6 @@
 ### Hey! It's me Pratik 👋
 
-- 🎤 I am a passonate Computer Vision enthusiast and a Fullstack Developer.
+- 🎤 I am a passonate Computer Vision enthusiast and a Fullstack Software Engineer.
 - 🛸 Learning everyday, currently learning to master Advanced CV NLP, UI/UX etc ...
 - 📚 Actively writing blogs Check it Out! [Here!](https://medium.com/@pratik_codes)
 - 💬 Ask me about DS, ML, DL, AGI, Web Dev or anything in general 
