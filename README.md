@@ -23,8 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ayushrout7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ayushrout7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushrout" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushrout" height="30" width="40" /></a>
+🏡[website](https://pratik-tiwari.netlify.app/) | 👔[linekdin](https://www.linkedin.com/in/pratiktiwari12/) | 📝[medium](https://pratik-codes.medium.com/) | 📸[instagram](https://www.instagram.com/seethroughmycam/) | 📧 [mail](mailto:pratiktiwari1212@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,11 +45,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/cute-clipart/64/4a90e2/github.png" />
 <div >
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=routayush1&show_icons=true&locale=en&layout=compact" alt="routayush1" />
-  
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=routayush1&show_icons=true&locale=en" alt="routayush1" />
 
-  </p>
 
 
 
