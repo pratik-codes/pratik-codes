@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA and GraphQL and React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/routayush1](https://github.com/pratik-codes/Fullstack-Dev-Profile)
+- 👨‍💻 All of my projects are available at [https://github.com/pratik-codes/Fullstack-Dev-Profile](https://github.com/pratik-codes/Fullstack-Dev-Profile)
 
 - 💬 Ask me anything about  **Python, React, Node, MERN Stack and related technologies**
 
