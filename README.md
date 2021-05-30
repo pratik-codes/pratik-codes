@@ -4,7 +4,7 @@
   
 
 
-<h1 align="center">Hi 👋, I'm Pratik Tiwari</h1>
+<h1 align="center">I'm Pratik Tiwari</h1>
 <h3 align="center">A passionate Full stack Software Engineer from India</h3>
 
 - 🔭 I’m currently working on Productively (V0.1 will release soon...)
