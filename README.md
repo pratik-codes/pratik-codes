@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on [Productively](https://github.com/pratik-codes/Productively) (V0.1 will release soon...)
 
-- 🌱 I’m currently learning **DSA and GraphQL and React Native**
+- 🌱 I’m currently learning **DSA and AWS and Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratik-codes/Fullstack-Dev-Profile](https://github.com/pratik-codes/Fullstack-Dev-Profile)
-
-- 💬 Ask me anything about  **Python, React, Node, MERN Stack and related technologies**
 
 - 📫 How to reach me **pratiktiwari1212@gmail.com**
 
