@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA and AWS and Nextjs**
 
-- 👨‍💻 All of my projects are available at [Dev project playlist](https://github.com/pratik-codes/Fullstack-Dev-Profile](https://github.com/pratik-codes/Fullstack-Dev-Profile)
+- 👨‍💻 All of my projects are available at [Dev project playlist](https://github.com/pratik-codes/Fullstack-Dev-Profile)
 
 - 📫 How to reach me **pratiktiwari1212@gmail.com**
 
