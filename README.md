@@ -7,7 +7,7 @@
 <h1 align="center">I'm Pratik Tiwari</h1>
 <h3 align="center">A passionate Full stack Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Productively](https://github.com/pratik-codes/Productively) (V1.0 will release soon...)
+- 🔭 I’m currently working on [Productively](https://github.com/pratik-codes/Productively)
 
 - 🌱 I’m currently learning **DSA and AWS and Nextjs**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pratiktiwari1212@gmail.com**
 
-- 📄 Know about my experiences [MY CV](https://pratik-tiwari.netlify.app/)
+- 📄 Know about my experiences [MY CV](https://drive.google.com/drive/u/2/folders/11fMGlmzgEQm9YisRvrbHsuqzUtcG0xt-)
 
 - ⚡ Fun fact : **I am a passionate 🎮 gamer and 👨‍💻 tech geek too**
 
