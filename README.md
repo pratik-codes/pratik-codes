@@ -7,7 +7,7 @@
 <h1 align="center">I'm Pratik Tiwari</h1>
 <h3 align="center">A passionate Full stack Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Productively](https://github.com/pratik-codes/Productively)
+- 🔭 I’m currently working on [Dashlit](https://github.com/pratik-codes/Dashlit)
 
 - 🌱 I’m currently learning **DSA and AWS and Nextjs**
 
