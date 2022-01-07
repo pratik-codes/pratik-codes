@@ -15,10 +15,6 @@
 
 - 📫 How to reach me **pratiktiwari1212@gmail.com**
 
-- 📄 Know about my experiences [MY CV](https://drive.google.com/drive/u/2/folders/11fMGlmzgEQm9YisRvrbHsuqzUtcG0xt-)
-
-- ⚡ Fun fact : **I am a passionate 🎮 gamer and 👨‍💻 tech geek too**
-
 <h3 align="left">Connect with me:</h3>
 
 👔[linekdin](https://www.linkedin.com/in/pratiktiwari12/)
