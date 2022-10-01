@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Dashlit](https://github.com/pratik-codes/Dashlit)
 
-- 🌱 I’m currently learning **AWS and Nextjs**
-
 - 👨‍💻 All of my projects are available at [Dev project playlist](https://github.com/pratik-codes/Fullstack-Dev-Profile)
 
 - 📫 How to reach me **pratiktiwari1212@gmail.com**
