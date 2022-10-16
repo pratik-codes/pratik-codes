@@ -7,7 +7,7 @@
 <h1 align="center">I'm Pratik Tiwari</h1>
 <h3 align="center">A passionate Full stack Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [dashlit.com](https://dashlit.com) && [https://javascriptbypratik.super.site/](https://javascriptbypratik.super.site/)
+- 🔭 I’m currently working on [dashlit.com](https://dashlit.com) && [javascriptbypratik.super.site/](https://javascriptbypratik.super.site/)
  
 
 - 👨‍💻 All of my projects are available at [Dev project playlist](https://github.com/pratik-codes/Fullstack-Dev-Profile)
