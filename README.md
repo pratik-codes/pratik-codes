@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 
 [Mail](mailto:pratiktiwari1212@gmail.com) -
-[linekdin](https://www.linkedin.com/in/pratiktiwari12/) - 
-[medium](https://pratik-codes.medium.com/) -
+[Linekdin](https://www.linkedin.com/in/pratiktiwari12/) - 
+[Medium](https://pratik-codes.medium.com/) -
 [Twitter](https://twitter.com/pratikk_tiwari) -
 [showwcase](https://www.showwcase.com/pratik-codes)
 
