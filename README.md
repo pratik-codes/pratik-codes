@@ -14,7 +14,7 @@
 
 [Mail](mailto:pratiktiwari1212@gmail.com) -
 [Linekdin](https://www.linkedin.com/in/pratiktiwari12/) - 
-[Medium](https://pratik-codes.medium.com/) -
+[hashnode(blogs)](https://hashnode.com/@pratik-codes) -
 [Twitter](https://twitter.com/pratikk_tiwari) -
 [showwcase](https://www.showwcase.com/pratik-codes)
 
