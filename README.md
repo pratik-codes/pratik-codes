@@ -4,8 +4,6 @@
 
 ### I mainly work within the React && Node ecosystem, but I'm always learning new tools & technologies.
 
-### On the Frontend I have experience with JavaScript, TypeScript & Next.js. And for the Backend I have experience with Node.js, Nest.js, Express.js & AWS
-
 ### I’m currently working on [dashlit.com](https://dashlit.com) && [deepjavascript.super.site](https://deepjavascript.super.site/) 
 
 --------
