@@ -1,6 +1,6 @@
 
 ### 👋 
-### Hello, I'm Pratik. A Fullstack Software Engineer with hands on experience in building client & server-side web applications using Typescript/Javascript.
+### Hello, I'm Pratik. A Fullstack Software Engineer with hands on experience in building client & server-side web applications using Typescript/Javascript & Go.
 
 ### I mainly work within the React && Node && GO ecosystem, but I'm always learning new tools & technologies.
 
