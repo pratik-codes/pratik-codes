@@ -4,7 +4,7 @@
 
 ### I mainly work within the React && Node && GO ecosystem, but I'm always learning new tools & technologies.
 
-### I’m currently working on [dashlit.com](https://dashlit.com) also contributing to some amazing ideas here..
+### I’m currently working on [dashlit.com](https://dashlit.com) also contributing to some amazing ideas here...
 
 --------
 
