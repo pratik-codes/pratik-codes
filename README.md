@@ -1,10 +1,10 @@
 
 ### 👋 
-### Hello, I'm Pratik. A Fullstack Software Engineer with hands on experience in building client & server-side web applications using Typescript/Javascript & Go.
 
-### I mainly work within the React && Node && GO ecosystem, but I'm always learning new tools & technologies.
+### I'm a fullstack developer, optimist, and a open source advocate. I'm currently working on my OS app called [dashlit.com](https://dashlit.com) and contributing to multiple open source projects.
 
-### I’m currently working on [dashlit.com](https://dashlit.com) also contributing to some amazing ideas here...
+### I mainly build with React, Node, GO, AWS and Solidity but I'm always learning new tools & technologies.
+
 
 --------
 
