@@ -1,8 +1,8 @@
 ### Hola 👋 
 
-### I'm a full-stack developer, optimist, and open-source advocate. I'm currently working on my OS app called [dashlit.com](https://dashlit.com) and contributing to multiple open-source projects.
+<b>I'm a full-stack developer, optimist, and open-source advocate. I'm currently working on my OS app called [dashlit.com](https://dashlit.com) and contributing to multiple open-source projects.<b/>
 
-### I mainly build with React, Node, GO, AWS, and Solidity but I'm always learning new tools & technologies.
+<b>I mainly build with React, Node, GO, AWS, and Solidity but I'm always learning new tools & technologies.</b>
 
 
 --------
