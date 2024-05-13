@@ -1,4 +1,4 @@
-<h3>Hola 👋 </h1>
+<h3>Bonjour 👋 </h1>
 
 <b>I'm a full-stack developer, optimist, and open-source advocate. I'm currently working on my OS app called [dashlit.com](https://dashlit.com) and contributing to multiple open-source projects.<b/>
 
