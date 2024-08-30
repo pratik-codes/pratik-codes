@@ -1,6 +1,6 @@
 <h3>Bonjour 👋 </h1>
 
-<b>I'm a full-stack developer, optimist, and open-source advocate. I'm currently working on my OS app called [dashlit.com](https://dashlit.com) and contributing to multiple open-source projects.<b/>
+<b>I'm a full-stack developer, optimist, and open-source advocate. I'm currently working on my OS app called [https://sifusec.vercel.app/](https://sifusec.vercel.app/) and contributing to multiple open-source projects.<b/>
 
 <b>I mainly build with React, Node, GO, AWS, and Solidity but I'm always learning new tools & technologies.</b>
 
