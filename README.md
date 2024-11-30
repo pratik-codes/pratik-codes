@@ -10,7 +10,7 @@ Here at my command center, I build with precision, from distributed systems to d
 
 <h3 align="left">Connect with me:</h3>
 
-[Twitter](https://twitter.com/pratikk_tiwari) -
+[Twitter](https://twitter.com/pratikcodes_) -
 [Mail](mailto:pratiktiwari1212@gmail.com) -
 [Linekdin](https://www.linkedin.com/in/pratiktiwari12/) - 
 [Blogs](https://blogs.tiwaripratik.com/) -
