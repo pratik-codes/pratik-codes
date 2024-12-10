@@ -13,8 +13,7 @@ Here at my command center, I build with precision, from distributed systems to d
 [Twitter](https://twitter.com/pratikcodes_) -
 [Mail](mailto:pratiktiwari1212@gmail.com) -
 [Linekdin](https://www.linkedin.com/in/pratiktiwari12/) - 
-[Blogs](https://blogs.tiwaripratik.com/) -
-
+[Blogs](https://blogs.tiwaripratik.com/) 
 
 
 
